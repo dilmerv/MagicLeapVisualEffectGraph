@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/RaySphere.unity
     guid: ab7baf40c44254e82a29906808e60b31
+  - enabled: 1
+    path: Assets/Scenes/CoolRays.unity
+    guid: 2941cf74579d8684ca36b4dc64076856
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2ba4dbd235ed941bb8fdb5a40ab00f22,
       type: 2}
