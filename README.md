@@ -8,6 +8,12 @@ Anyone interested in a walkthrough of this effects be sure to watch the followin
 
 [New Visual Effects With Magic Leap in Unity3d 2019.3 Beta](https://youtu.be/iJFgqz0vvcI)
 
-- Demo of Test Scene:
+- MultipleRaySpheres.unity RaySphere.unity scenes:
 
-<img src="https://github.com/dilmerv/MagicLeapVisualEffectGraph/blob/master/docs/images/vfx.gif" width="300">
+<img src="https://github.com/dilmerv/MagicLeapVisualEffectGraph/blob/master/docs/images/multiplerayspheres.gif" width="300">
+
+<img src="https://github.com/dilmerv/MagicLeapVisualEffectGraph/blob/master/docs/images/rayspehere.gif" width="300">
+
+- CoolRays.unity scene:
+
+<img src="https://github.com/dilmerv/MagicLeapVisualEffectGraph/blob/master/docs/images/coolrays.gif" width="300">
