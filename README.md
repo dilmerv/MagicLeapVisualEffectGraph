@@ -14,6 +14,10 @@ Anyone interested in a walkthrough of this effects be sure to watch the followin
 
 <img src="https://github.com/dilmerv/MagicLeapVisualEffectGraph/blob/master/docs/images/rayspehere.gif" width="300">
 
+- CoolRaysSequentialCircle.unity scene:
+
+<img src="https://github.com/dilmerv/MagicLeapVisualEffectGraph/blob/master/docs/images/coolrayssequentialcircle.gif" width="300">
+
 - CoolRays.unity scene:
 
 <img src="https://github.com/dilmerv/MagicLeapVisualEffectGraph/blob/master/docs/images/coolrays.gif" width="300">
