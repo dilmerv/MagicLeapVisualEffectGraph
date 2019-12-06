@@ -17,3 +17,7 @@ Anyone interested in a walkthrough of this effects be sure to watch the followin
 - CoolRays.unity scene:
 
 <img src="https://github.com/dilmerv/MagicLeapVisualEffectGraph/blob/master/docs/images/coolrays.gif" width="300">
+
+- CoolBlueRays.unity scene:
+
+<img src="https://github.com/dilmerv/MagicLeapVisualEffectGraph/blob/master/docs/images/coolbluerays.gif" width="300">
